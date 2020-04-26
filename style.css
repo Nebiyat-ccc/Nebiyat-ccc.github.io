@@ -1,6 +1,28 @@
-body{background-color:  #e1b382  position:absolute;
+body{
+  position:absolute;
     width:100%;
     height:100%;
     left:0;
     bottom:0;
-background:url(https://media.wired.com/photos/59266c3b7034dc5f91beb5d9/master/w_582,c_limit/BioCodingTA.jpg) left repeat-x;}
+background:url(https://media.wired.com/photos/59266c3b7034dc5f91beb5d9/master/w_582,c_limit/BioCodingTA.jpg);
+  color:black;
+font-weight:Bold}
+h1{color:#8B008B;}
+mark{background-color:pink; 
+}
+#see-less {
+  display: none;
+}
+#see-more{
+  color:#8B0000;
+}
+
+.container{
+  width:90px;
+  padding:10;
+    background:#ddd;
+    margin:
+}
+
+
+}
